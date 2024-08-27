@@ -4,4 +4,4 @@ Main: [SchoolClass.cs](https://github.com/batuhan-uzun/FirstClass/blob/master/Sc
 
 Class: [Person.cs](https://github.com/batuhan-uzun/FirstClass/blob/master/Person.cs)
 
-C# Console App ile class yapısı kullanılarak yapılmıştır.
+C# Console App ile "Class" yapısı kullanılarak yapılmıştır.
